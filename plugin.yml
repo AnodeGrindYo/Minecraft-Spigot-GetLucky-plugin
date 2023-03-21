@@ -1,0 +1,9 @@
+name: GetLucky
+main: fr.anodegrindyo.getlucky.Main
+version: 1.0
+description: Ajoute une baguette magique qui fait n'importe quoi.
+api-version: 1.19
+commands:
+  abracadabra:
+    description: Donne une baguette magique qui fait n'importe quoi'.
+    usage: /abracadabra
